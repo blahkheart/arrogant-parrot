@@ -1,4 +1,4 @@
-# Oh Pandas
+# Arrogant Parrots
 
 > everything you need to build on Ethereum! 🚀
 
